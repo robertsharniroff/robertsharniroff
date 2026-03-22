@@ -1,18 +1,27 @@
-# Hey, я IRRatium 👋
-Пишу код, ломаю билды и чиню их обратно
+<div align="center">
+  <img src="IRRing_baked.svg" width="420" />
+</div>
 
----
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center">
 
-**🔭 Сейчас работаю над** — моим pet-проектом  
-**🌱 Учу** — новые технологии  
-**⚡ Интересный факт** — я нашёл этот баг в 2:47 ночи  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IRRatium&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRRatium&layout=compact&theme=tokyonight)
+<br/>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=IRRatium&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRRatium&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
