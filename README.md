@@ -2,10 +2,6 @@
   <img src="IRRing_baked.svg" width="460" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7450aa,6776e0&height=80&section=header&reversal=false" width="100%"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -27,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="line.svg" width="100%"/>
 </div>
 
 <br/>
@@ -53,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="line.svg" width="100%"/>
 </div>
 
 <br/>
@@ -62,10 +58,4 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=IRRatium&theme=tokyonight&no-frame=true&row=1&column=6)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7450aa,6776e0&height=80&section=footer&reversal=false" width="100%"/>
 </div>
