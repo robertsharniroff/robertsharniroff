@@ -56,6 +56,6 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=IRRatium&theme=tokyonight&no-frame=true&row=1&column=6)
+![Profile Views](https://komarev.com/ghpvc/?username=IRRatium&style=for-the-badge&color=7450aa&label=PROFILE+VIEWS)
 
 </div>
