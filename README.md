@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="IRRing_baked.svg" width="460" />
+  <img src="IRRing_baked.svg" width="400" />
 </div>
-
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7450AA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+IRRatium+%F0%9F%91%8B;Python+developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7450AA&center=true&vCenter=true&width=500&lines=Python+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -20,39 +16,26 @@
 
 </div>
 
-<br/>
-
 <div align="center">
   <img src="line.svg" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IRRatium&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IRRatium&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRRatium&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IRRatium&theme=tokyonight&hide_border=true)
+  <img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=IRRatium&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRRatium&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="line.svg" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
